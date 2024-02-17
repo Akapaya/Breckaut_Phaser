@@ -1,29 +1,29 @@
-# Projeto Unity: Breckaut (HTML)
+# Project: Breckaut (HTML)
 
-Bem-vindo ao meu repositório HTML, onde compartilho meu projeto desenvolvido como parte do meu desenvolvimento em jogos
+Welcome to my HTML repository where I share my project developed as part of my game development
 
-## Descrição do Projeto
+## Project description
 
 ### Breckaut HTML
-Um exemplo simples do jogo Breckaut em HTML, CSS e javascript phaser
+A simple example of the Breckaut game in HTML, CSS and javascript phaser
 
 https://github.com/Akapaya/Breckaut_Phaser/assets/63330951/bcae65bd-6ca1-4356-8b3d-d3854720c4a5
 
-## Desafios e Conquistas Unity
-Este projeto um dos meus primeiros projetos HTML.
+## Challenges and Achievements
+This project is one of my first HTML projects.
 
-## Tecnologias e Habilidades Demonstradas
+## Demonstrated Technologies and Skills
 
 - HTML
 - CSS
 - JavaScript
 - Phaser
 
-## Contato
+## Contact
 
-Sinta-se à vontade para entrar em contato comigo para discutir mais sobre este projeto ou colaborações futuras.
+Please feel free to contact me to discuss further about this project or future collaborations.
 
 - Email: gregory_valentim@hotmail.com
 - LinkedIn: [Gregory Valentim](https://www.linkedin.com/in/gregory-valentim/)
 
-Obrigado por explorar este projeto Unity.
+Thanks for exploring this HTML project.
